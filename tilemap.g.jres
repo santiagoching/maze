@@ -1,0 +1,42 @@
+{
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level_1": {
+        "id": "level_1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMxMjA5MDkwOTA5MTAwMTBiMDEwMjAxMDEwMTEzMDMwMzA1MDQwNDA0MDQwYjBiMDEwMjA0MDQwNDBiMDcwMzAzMDUwNDBkMGQwNDA0MDQwNDA0MDQwMjBhMDQwNzAzMDMwNTA0MGQwYjBiMGMwMjA0MDIwNDA0MGEwNDA3MDMwMzA1MDQwZDBiMDIwYTBjMDQwYTAxMDQwMjA0MDcwMzAzMDUwNDA0MDQwNDBjMGEwYTBhMDEwNDAyMDQwNzAzMDMxNTA0MGYwMjA0MDQwNDA0MGEwYTAyMDIwNDA3MDMwMzA1MDQwNDBjMGMwZDBhMDQwYTBiMDIwMjA0MDcwMzAzMDUwNDA0MDQwNDBkMGEwNDA0MDQwNDA0MDQwNzAzMDMwNTA0MDQwNDA0MGMwMjA0MGEwYTAyMDIwNDA3MDMwMzA1MDQwZDBlMGMwYzAxMGEwYTBhMDIwYTA0MDcwMzAzMDUwNDExMDQwNDExMDQwNDA0MDQwNDBhMDQwNzAzMDMwNTA3MGUwNTA3MDEwNTA0MDQwNDA0MGEwNDE0MDMwMzA2MDgwZTA2MDgwMTA2MTExMTExMDgwMjA2MDgwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMDMwMzAzMjIyMjIyMjIyMjIyMjIyMjAyMDAwMDIyMjIyMjIyMjAwMjAwMDAyMjIyMDAyMDIwMDIyMDAyMDAwMDIwMDIyMDAyMjAyMjIyMjAwMDAyMjAwMjIwMjIyMjIwMDIwMjIwMDIwMDAwMjIyMjAyMDIyMDAyMjAwMjAwMjAyMjAyMjAwMjAwMjIyMjIwMjIwMjIwMDIwMDAwMjIwMDAwMDAyMDAyMDAwMDIyMjAyMjAyMjAwMjIwMjIyMjIyMjIwMjIwMDIwMDAwMDAwMDAwMDIyMDAyMjAwMDAyMDAwMDAyMjAwMjIwMDAwMjAwMDAwMjIwMjIyMjIyMjIyMjIyMjIyMg==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.dungeon.floorDark2",
+            "sprites.dungeon.floorDark5",
+            "sprites.dungeon.greenOuterSouth2",
+            "sprites.castle.tilePath5",
+            "sprites.castle.tilePath4",
+            "sprites.castle.tilePath7",
+            "sprites.castle.tilePath6",
+            "sprites.castle.tilePath9",
+            "sprites.castle.tilePath2",
+            "sprites.dungeon.floorLight5",
+            "sprites.dungeon.floorLightMoss",
+            "sprites.dungeon.floorLight4",
+            "sprites.dungeon.floorDark0",
+            "sprites.dungeon.floorDark3",
+            "sprites.dungeon.floorMixed",
+            "sprites.dungeon.floorDark4",
+            "sprites.castle.tilePath8",
+            "sprites.castle.tilePath1",
+            "sprites.castle.tilePath3",
+            "sprites.dungeon.stairLarge",
+            "sprites.builtin.forestTiles24"
+        ],
+        "displayName": "level_1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
